@@ -1,0 +1,15 @@
+[user]
+	name = Dylan Powers
+	email = dylandpowers@gmail.com
+[color]
+	ui = auto
+[credential]
+	helper = osxkeychain
+[merge]
+	tool = opendiff
+[alias]
+	co = checkout
+	br = branch
+	d = branch -D
+[diff]
+	external = difft
